@@ -1,8 +1,3 @@
-1. **Manually Edit the README.md File:**
-   Open the `README.md` file in a text editor and manually resolve the conflicts. The file will contain conflict markers like `<<<<<<<`, `=======`, and `>>>>>>>`. You need to edit the file to combine the content as desired and remove these markers.
-
-   Here’s a cleaned-up version of your `README.md` based on your content:
-
    ```markdown
    # 🛒 Ecommerce Responsive MERN App
 
