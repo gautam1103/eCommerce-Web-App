@@ -103,10 +103,7 @@ Make sure to set up the following environment variables in your `.env` files:
   - `REACT_APP_SERVER_DOMIN` - API server domain (e.g., `http://localhost:8080`).
   - `REACT_APP_ADMIN_EMAIL` - Admin email for login purposes.
 
-## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-This version is more organized, highlights the features of the app, and provides clear instructions for setting up the project. You can customize it further based on your specific needs or features.
