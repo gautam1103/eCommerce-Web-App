@@ -104,23 +104,5 @@
      - `REACT_APP_SERVER_DOMIN` - API server domain (e.g., `http://localhost:8080`).
      - `REACT_APP_ADMIN_EMAIL` - Admin email for login purposes.
 
-   ## 📜 License
-
-   This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
    ```
 
-2. **Save Your Changes:**
-   Save the updated `README.md` file.
-
-3. **Stage and Commit the Resolved File:**
-
-   ```bash
-   git add README.md
-   git commit -m "Resolved merge conflicts in README.md"
-   ```
-
-4. **Push Your Changes:**
-
-   ```bash
-   git push origin main
-   ```
